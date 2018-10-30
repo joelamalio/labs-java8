@@ -12,7 +12,7 @@ public class ExemploColecao {
 		
 		lista.add("Professor");
 		lista.add("Cantor");
-		lista.add("Cirugi�o");
+		lista.add("Cirugião");
 		lista.add("Programador");
 		lista.add("Diretor");
 		lista.add("Enfermeira");
