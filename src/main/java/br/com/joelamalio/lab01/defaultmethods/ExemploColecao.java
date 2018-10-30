@@ -1,4 +1,4 @@
-package br.com.joelamalio.defaultmethods;
+package br.com.joelamalio.lab01.defaultmethods;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -12,7 +12,7 @@ public class ExemploColecao {
 		
 		lista.add("Professor");
 		lista.add("Cantor");
-		lista.add("Cirugião");
+		lista.add("Cirugiï¿½o");
 		lista.add("Programador");
 		lista.add("Diretor");
 		lista.add("Enfermeira");
