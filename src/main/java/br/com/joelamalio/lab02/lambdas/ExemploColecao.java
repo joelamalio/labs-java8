@@ -1,4 +1,4 @@
-package br.com.joelamalio.lab02.interfacefuncional;
+package br.com.joelamalio.lab02.lambdas;
 
 import java.util.ArrayList;
 import java.util.List;
