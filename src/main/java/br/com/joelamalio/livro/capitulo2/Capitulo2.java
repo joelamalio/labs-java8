@@ -1,4 +1,4 @@
-package br.com.joelamalio.livro;
+package br.com.joelamalio.livro.capitulo2;
 
 import java.util.Arrays;
 import java.util.List;
