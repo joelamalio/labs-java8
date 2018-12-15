@@ -42,5 +42,9 @@ public class Usuario {
 	public void setModerador(boolean moderador) {
 		this.moderador = moderador;
 	}
+	
+	public void tornarModerador() {
+		this.moderador = true;
+	}
 
 }
